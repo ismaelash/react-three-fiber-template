@@ -1,6 +1,12 @@
 # Demo
 https://r3ftemplate.ismaelnascimento.com	
 
+# Links
+
+- https://threejs.org/
+- https://github.com/pmndrs/react-three-fiber
+- https://github.com/pmndrs/gltfjsx
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
