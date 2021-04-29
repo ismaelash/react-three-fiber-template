@@ -3,6 +3,7 @@ https://r3ftemplate.ismaelnascimento.com
 
 # Links
 
+- Tutorial: https://youtu.be/pGM7-0es8TM
 - https://threejs.org/
 - https://github.com/pmndrs/react-three-fiber
 - https://github.com/pmndrs/gltfjsx
